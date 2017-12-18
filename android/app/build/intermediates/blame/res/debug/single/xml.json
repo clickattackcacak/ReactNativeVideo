@@ -2,5 +2,9 @@
     {
         "merged": "/home/stefansujdovic/Desktop/VIDEO/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
         "source": "/home/stefansujdovic/Desktop/VIDEO/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.51.0/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/home/stefansujdovic/Desktop/ReactNativeVideo/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/home/stefansujdovic/Desktop/ReactNativeVideo/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.51.0/res/xml/preferences.xml"
     }
 ]

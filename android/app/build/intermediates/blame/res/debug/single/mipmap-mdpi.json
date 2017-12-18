@@ -2,5 +2,9 @@
     {
         "merged": "/home/stefansujdovic/Desktop/VIDEO/android/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
         "source": "/home/stefansujdovic/Desktop/VIDEO/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/stefansujdovic/Desktop/ReactNativeVideo/android/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/home/stefansujdovic/Desktop/ReactNativeVideo/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
     }
 ]
